@@ -1,0 +1,136 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMxc81bq1WnMUla++/adSul",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Eliasckri/IAE_METZ_GRP_9/blob/main/CODE%20ESSAI\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "dJyujv_in9HY",
+        "outputId": "6c497937-c6f9-495f-c9b4-221a47e2e103"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello world\n"
+          ]
+        }
+      ],
+      "source": [
+        "from os import WCOREDUMP\n",
+        "#PREMIER CODE ELIAS POUR LE COURS IAE METZ\n",
+        "\n",
+        "print(\"hello world\")\n",
+        "\n",
+        "Salaire= 20000\n",
+        "\n",
+        "prénom = \"elias\"\n",
+        "salaire = 20000\n",
+        "weight= 1.70\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#hello"
+      ],
+      "metadata": {
+        "id": "qhIc_50MQ9iQ"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "print(f\"on dirait que {prénom} est seul\")"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "qNcr_HEuRHeg",
+        "outputId": "c0ddcc21-d29b-4003-a54d-fa22da296c03"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "on dirait que elias est seul\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "valeur_1= 10\n",
+        "valeur_2= 2\n",
+        "\n",
+        "a=10\n",
+        "b=3\n",
+        "\n",
+        "a, b= 10, 3\n",
+        "a+b\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "1NoYyNW0Sdz8",
+        "outputId": "a0c9b27b-46bd-4f41-ba84-6c0a381e9a2c"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "13"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 6
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "EwWhkqn4Q9RW"
+      }
+    }
+  ]
+}
